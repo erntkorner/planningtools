@@ -1,2 +1,1 @@
-# planningtools
-equipment booking v2
+https://planningtoolv2.netlify.app
